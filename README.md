@@ -25,7 +25,7 @@ Follow the on-screen instructions to install the app on your device.
   
 #  4. Features
 ##  4.1 Sentiment Analysis
-  Our AI-powered sentiment analysis feature allows you to track your daily emotions by inputting your thoughts or journal entries. The app will analyze the text and provide insights into your emotional state over time.
+  Our AI-powered sentiment analysis feature allows you to track your daily emotions by inputting your daybook or diary entries. The app will analyze the text and provide insights into your emotional state over time.
 ##  4.2 Mood Prediction
   Utilizing facial recognition technology, the app can predict your mood by analyzing your facial expressions through your device's camera. Simply take a photo, and the app will provide insights into your current emotional state.
 ##  4.3 Symptom-Based Chatbot
