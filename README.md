@@ -11,10 +11,10 @@
 8. License
 
  # 1. Introduction
-  Welcome to the Mental Health Tracker App! This app is designed to help users monitor their mental health and provide insights using AI-driven sentiment analysis, mood prediction through face detection, and a symptom-based chatbot for mental disorder prediction.
+  Welcome to the Psychi Buddy App! This app is designed to help users monitor their mental health and provide insights using AI-driven sentiment analysis, mood prediction through face detection, and a symptom-based chatbot for mental disorder prediction.
   
 #  2. Installation
-  To use the Mental Health Tracker App, follow these installation instructions:
+  To use the Psychi Buddy App, follow these installation instructions:
   
 ###  Download: 
 Download the app from the Google Play Store (for Android).
@@ -31,7 +31,7 @@ Follow the on-screen instructions to install the app on your device.
 ##  4.3 Symptom-Based Chatbot
   The app includes a chatbot that can predict potential mental health disorders by asking a series of questions about your symptoms and experiences. The chatbot provides preliminary insights and encourages users to seek professional advice when necessary.
 #  5. How It Works
-  The Mental Health Tracker App combines advanced AI and machine learning algorithms to provide its features:
+  The Psychi Buddy App combines advanced AI and machine learning algorithms to provide its features:
   
 ###  Sentiment Analysis: 
 The app uses natural language processing (NLP) to analyze the sentiment of text input, categorizing it as positive, negative, or neutral.
@@ -49,6 +49,6 @@ The app uses computer vision and facial recognition algorithms to detect facial 
   If you encounter any issues or have suggestions for improvement, please contact our support team through the app's "Support" section. We value your feedback and are dedicated to making the app as helpful as possible.
   
 #  8. License
-  The Mental Health Tracker App is licensed under the terms and conditions outlined in the End User License Agreement (EULA). By using this app, you agree to abide by these terms and conditions. You can access the EULA within the app.
+  The Psychi Buddy App is licensed under the terms and conditions outlined in the End User License Agreement (EULA). By using this app, you agree to abide by these terms and conditions. You can access the EULA within the app.
   
-  Thank you for choosing the Mental Health Tracker App. We hope it helps you on your journey towards better mental health and well-being.
+  Thank you for choosing the Psychi Buddy App. We hope it helps you on your journey towards better mental health and well-being.
